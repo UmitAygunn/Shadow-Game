@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demo
+
+![Shadow](https://github.com/UmitAygunn/Shadow-Game/assets/140657845/38d0ce85-bdb5-427b-a1a3-986988ae65cb)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
